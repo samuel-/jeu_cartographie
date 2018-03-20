@@ -1,4 +1,5 @@
 **Témoignage d’un habitant pour situer les villages**
+
 “Kawamba et Lukwa sont les deux villages principaux, ils sont sépars par une route : au Nord c’est Kawamba e au Sud Lukwa.
 Je me rends souvent à Lukwa pour rendre visite à mon frère et aller au marché. Mais moi j’habite à Chipoza. Pour s’y rendre en partant de Kawamba il faut prendre la route qui mène vers l’Ouest en passant par Likuni. 
 Ma femme est institutrice à l’école du village où j’habite. 
