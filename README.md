@@ -2,8 +2,9 @@
 jeu sur fond de carte pour découvrir la cartographie et l'intérêt de la collecte de données géographiques
 
 
-CC-BY-SA-4.0 CartONG
-Légères modifications Petits Débrouillards Aura
+CC-BY-SA 3.0 FR CartONG
+Légères modifications du texte du déroulé Petits Débrouillards Aura
+Ajout de la grille sur l'image satellite UCA
 
 ***Contexte***
 http://lespetitsdebrouillards-aura.org/event/journee-cartographie-echange-entre-animateurs-rencontre-avec-cartong-mise-en-pratique/
