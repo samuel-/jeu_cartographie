@@ -34,14 +34,14 @@ Nous allons maintenant indiquer d’avantage d’informations grâce au témoign
 
 (version + difficile) Rajouter une distance km entre deux éléments pour dessiner l’échelle 
 Entre la décharge de Chipoza et le point d’eau de Likuni (20cm) 
-
+- - - -
 Étape 3 : 
 Mise en situation : Dans les deux centres de santé de Chipoza et Lukwa les docteurs ont reçu nombreux malades ces derniers jours. Ils se plaignent tous des mêmes symptômes, d’après le diagnostic des médecins ils sont atteints du choléra. Alors que les médecins leurs donnent des médicaments pour les soigner (eau et fortifiants), nous allons lire leurs témoignages pour repérer sur la carte où ils se situent afin de déterminer comment s’est propagée la maladie. 
 
 Consigne : Chaque participant pioche un témoignage et le lit à voix haute chacun à son tour. Quand il peut le situer sur la carte il prend un pion rouge et le place au bon endroit. 
 
 Dans les témoignages modifier certains avec des distances (qui pourront être calculées grâce à l’échelle) 
-
+- - - -
 Étape 4 :
 On a donc repéré sur la carte où se situent tous les malades : que pouvez-vous conclure ? 
 Consigne : Entourer les zones de contamination. 
