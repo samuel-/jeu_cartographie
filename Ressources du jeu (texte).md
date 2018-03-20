@@ -1,3 +1,10 @@
+**Témoignage d’un habitant pour situer les villages**
+“Kawamba et Lukwa sont les deux villages principaux, ils sont sépars par une route : au Nord c’est Kawamba e au Sud Lukwa.
+Je me rends souvent à Lukwa pour rendre visite à mon frère et aller au marché. Mais moi j’habite à Chipoza. Pour s’y rendre en partant de Kawamba il faut prendre la route qui mène vers l’Ouest en passant par Likuni. 
+Ma femme est institutrice à l’école du village où j’habite. 
+Les deux fermes les plus proches sont situées à Maripela, au Nord de Kawamba et à Lombwa au Sud-Est de Lukwa.”
+
+
 **Coordonnée des différents éléments d'intérêt**
 
 - 5 Points d’eau : M1, O9, F10, B8, T13 
